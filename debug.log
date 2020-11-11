@@ -1,0 +1,20 @@
+[1020/230233.414:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1025/234101.305:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1025/234217.688:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1026/212427.691:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1026/234055.538:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1030/112613.957:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1101/220427.748:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1101/233234.968:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1101/233234.968:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1102/003529.582:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1102/003831.687:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1102/051157.222:ERROR:file_io_win.cc(162)] CreateFile C:\Users\perminov\AppData\Local\Temp\scoped_dir35588_18894187\Crashpad\settings.dat: Системе не удается найти указанный путь. (0x3)
+[1102/051157.223:ERROR:file_io_win.cc(171)] CreateFile C:\Users\perminov\AppData\Local\Temp\scoped_dir35588_18894187\Crashpad\reports\d21f46a1-653c-494f-8a35-6baae4008835.dmp: Системе не удается найти указанный путь. (0x3)
+[1102/051157.223:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1102/220422.078:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1105/220945.661:ERROR:file_io_win.cc(162)] CreateFile C:\Users\perminov\AppData\Local\Temp\scoped_dir34500_1534155758\Crashpad\settings.dat: Системе не удается найти указанный путь. (0x3)
+[1105/220945.662:ERROR:file_io_win.cc(171)] CreateFile C:\Users\perminov\AppData\Local\Temp\scoped_dir34500_1534155758\Crashpad\reports\ce12cea1-bf27-443d-a030-8d43c0d70981.dmp: Системе не удается найти указанный путь. (0x3)
+[1105/220945.662:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1105/234024.382:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1105/234251.203:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
